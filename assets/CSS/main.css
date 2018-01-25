@@ -1,0 +1,79 @@
+.text {
+	width: 900px;
+	height: 800px;
+	background-color: #f1f1f57d;
+	margin: auto;
+}
+h1 {
+	padding-left: 50px;
+	padding-top: 30px;
+	color: gray;
+}
+.gor {
+list-style: none; /*убираем маркеры списка*/
+  margin-right: -20px; /*убираем верхнее и нижнее поле, равное 1em*/
+  margin-left: 35px;
+  padding-left: 20px; /*убираем левый отступ, равный 40px*/
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: white;
+  overflow: hidden;
+  background: gray;
+  width: 800px;
+  height: 40px;
+}
+.gori {
+	float: left;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 30px;
+	  font-family: 'Roboto', sans-serif;
+	  margin top: 0px;
+	  margin-right: 0px;
+	  margin-bottom: 0px;
+	  padding-top: 0px;
+	  float: left;
+}
+.ver {
+	list-style: none;
+	color: white;
+	background-color: gray;
+	width: 44px;
+	padding-right: 50px;
+	padding-left:20px;
+	margin-left: 40px;
+	font-family: 'Roboto', sans-serif;
+	float: left;
+}
+.content{
+margin-right: 50px;
+margin-left: 200px;
+margin-top: 0px;}
+img {
+	margin-left:50px;
+}
+.foot{
+	list-style: none; /*убираем маркеры списка*/
+  margin-right: -20px; /*убираем верхнее и нижнее поле, равное 1em*/
+  margin-left: 35px;
+  padding-left: 20px; /*убираем левый отступ, равный 40px*/
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: white;
+  overflow: hidden;
+  background: gray;
+  width: 800px;
+  height: 40px;
+}
+.foote {float: left;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 30px;
+	  font-family: 'Roboto', sans-serif;
+	  margin top: 0px;
+	  margin-right: 0px;
+	  margin-bottom: 0px;
+	  padding-top: 0px;
+	  float: left;
+
+}
